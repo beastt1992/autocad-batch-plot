@@ -31,7 +31,7 @@ Command: BPDF
 ├─────────────────────────────────────────┤
 │  Block Name : [A$C44896E9B] [ Pick ]    │
 │  PDF Prefix : [Project-2024]            │
-│  Output Folder: [C:\Desktop\Output]   │
+│  Output Folder: [C:\Desktop\Output]     │
 │                                         │
 │  Plot Style:       Paper Size:          │
 │  [monochrome.ctb]  [ISO A3]             │
