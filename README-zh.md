@@ -31,12 +31,12 @@
 ├─────────────────────────────────────────┤
 │  Block Name : [A$C44896E9B] [ Pick ]    │
 │  PDF Prefix : [中壢案-建照]              │
-│  Output Folder: [C:\Desktop\Output]   │
+│  Output Folder: [C:\Desktop\Output]     │
 │                                         │
 │  出圖樣式:          圖紙尺寸:            │
 │  [monochrome.ctb]  [ISO A3]             │
 │                                         │
-│  比例 (100=1:100, 0=佮滿): [100]        │
+│  比例 (100=1:100, 0=佮滿): [100]         │
 │                                         │
 │  ● 出所有相同圖框                        │
 │  ○ 只出這一張                            │
