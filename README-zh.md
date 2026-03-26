@@ -27,6 +27,8 @@
 指令: BPDF
 ```
 
+![BPDF Dialog](docs/bpdf.png)
+
 跳出對話框，填寫以下欄位：
 
 - **Block Name** — 輸入名稱，或點 Pick 直接點圖框自動偵測
