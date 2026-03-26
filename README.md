@@ -29,6 +29,18 @@ Command: BPDF
 
 ![BPDF Dialog](docs/bpdf.png)
 
+A dialog box appears with the following fields:
+
+- **Block Name** — type or click Pick to auto-detect
+- **PDF Prefix** — output filename prefix
+- **Output Folder** — destination folder
+- **Plot Style** — select from list
+- **Paper Size** — select from list (A0-A4)
+- **Scale** — e.g. 100 for 1:100, or 0 for Fit
+- **Plot Mode** — All frames or Single frame only
+
+Click OK → confirm → done!
+
 26 sheets exported in under 1 minute.
 
 ---
