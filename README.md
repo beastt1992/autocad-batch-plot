@@ -27,22 +27,7 @@ Built for AutoCAD users. No more plotting one sheet at a time.
 Command: BPDF
 ```
 
-A dialog box appears with the following fields:
-
-- **Block Name** — type or click Pick to auto-detect
-- **PDF Prefix** — output filename prefix
-- **Output Folder** — destination folder
-- **Plot Style** — select from list
-- **Paper Size** — select from list (A0-A4)
-- **Scale** — e.g. 100 for 1:100, or 0 for Fit
-- **Plot Mode** — All frames or Single frame only
-
-Click OK → confirm → done!
-
-```
-Found 26 frames → Plotting...
-  [1/26] Done ... [26/26] Done ✓
-```
+![BPDF Dialog](docs/bpdf.png)
 
 26 sheets exported in under 1 minute.
 
